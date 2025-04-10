@@ -35,9 +35,10 @@
 ## 📱 Demo
 
 <p align="center">
-  <img src="screenshots/multiple_sources.gif" width="200" alt="Multiple Sources"/>
-  <img src="screenshots/center_burst.gif" width="200" alt="Center Burst"/>
-  <img src="screenshots/corner_celebration.gif" width="200" alt="Corner Celebration"/>
+  <img src="screenshots/confetti_1.gif" width="200" alt="1:"/>
+  <img src="screenshots/confetti_2.gif" width="200" alt="2:"/>
+  <img src="screenshots/confetti_3.gif" width="200" alt="3:"/>
+  <img src="screenshots/confetti_4.gif" width="200" alt="4:"/>
 </p>
 
 ## 🚀 Usage
